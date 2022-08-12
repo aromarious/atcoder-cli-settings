@@ -1,0 +1,8 @@
+{
+	"oj-path": "/Users/username/.pyenv/shims/oj",
+	"default-contest-dirname-format": "{ContestID}",
+	"default-task-dirname-format": "{tasklabel}",
+	"default-test-dirname-format": "tests",
+	"default-task-choice": "next",
+	"default-template": "python3"
+}
