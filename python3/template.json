@@ -1,0 +1,6 @@
+{
+  "task": {
+    "program": [["solve.py", "solve_{TaskID}.py"]],
+    "submit": "solve_{TaskID}.py"
+  }
+}
